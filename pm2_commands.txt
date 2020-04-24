@@ -1,0 +1,2 @@
+sudo pm2 show app
+sudo pm2 list
